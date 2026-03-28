@@ -18,8 +18,7 @@ I enjoy working with modern JavaScript frameworks and exploring best practices i
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyXianzi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyXianzi&layout=compact)
+![Stats](./profile/stats.svg)
 
 ---
 

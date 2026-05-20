@@ -25,4 +25,3 @@ I enjoy working with modern JavaScript frameworks and exploring best practices i
 
 ## 📫 Contact
 - Email: ichjliebendich@163.com (China) / ichjliebendich@proton.me (Global)
-- LinkedIn: [linkedin.com/in/feifan-zheng-58281a327](https://www.linkedin.com/in/feifan-zheng-58281a327/)

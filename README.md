@@ -18,7 +18,6 @@ I enjoy working with modern JavaScript frameworks and exploring best practices i
 ---
 
 ## 📊 GitHub Stats
-![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
 ---

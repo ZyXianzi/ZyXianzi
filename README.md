@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Feifan
+# 👋 Hi, I'm ZyXianzi
 
 Frontend Developer passionate about building clean, user-friendly, and performant web applications.  
 I enjoy working with modern JavaScript frameworks and exploring best practices in UI/UX design.
@@ -23,4 +23,4 @@ I enjoy working with modern JavaScript frameworks and exploring best practices i
 ---
 
 ## 📫 Contact
-- Email: ichjliebendich@163.com (China) / ichjliebendich@proton.me (Global)
+- Email: ichjliebendich@proton.me
